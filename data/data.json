@@ -1,36 +1,228 @@
 {
-    "homepage":[
-        {
-            "src":"/img/NY17.jpeg",
-            "title":"NY17 Titile",
-            "text":"NY17 Text"
-        },
-        {
-            "src":"/img/NY18.jpeg",
-            "title":"NY18 Titile",
-            "text":"NY18 Text"
-        },
-        {
-            "src":"/img/NY19.jpeg",
-            "title":"NY19 Titile",
-            "text":"NY19 Text"
+    "header":{
+        "logo":"/img/logo.png",
+        "name":"ZIRAO ZHANG",
+        "title":"Production Design | Set Design | Illustration",
+        "font":{
+            "title":"Hammersmith One",
+            "name":"Hammersmith One"
         }
-    ],
-    "works":[
-        {
-            "src":"/img/NY17.jpeg",
-            "title":"NY17 Titile",
-            "text":"NY17 Text"
-        },
-        {
-            "src":"/img/NY18.jpeg",
-            "title":"NY18 Titile",
-            "text":"NY18 Text"
-        },
-        {
-            "src":"/img/NY19.jpeg",
-            "title":"NY19 Titile",
-            "text":"NY19 Text"
+    },
+    "headermenu":{
+        "font":"Hammersmith One",
+        "content":[
+            {
+                "path":"/home/",
+                "name":"HOME"
+            },
+            {
+                "path":"/short_films/",
+                "name":"SHORT FILM"
+            },
+            {
+                "path":"/concept_designs/1",
+                "name":"CONCEPT DESIGN"
+            },
+            {
+                "path":"/illustration/1",
+                "name":"ILLUSTRATION"
+            },
+            {
+                "path":"/drafting/1",
+                "name":"HODRAFTINGME"
+            },
+            {
+                "path":"/architectures/",
+                "name":"ARCHITECTURE"
+            },
+            {
+                "path":"/resume/",
+                "name":"RESUME"
+            }
+        ]
+    },
+    "resume":{
+        "selfy":"/img/selfy.jpeg",
+        "intro":"Hello. My name is zero. I'm a cute baby.",
+        "phone":"miaomiao",
+        "email":"miaomiao",
+        "font":{
+            "intro":"Hammersmith One",
+            "contact":"Hammersmith One"
         }
-    ]
+    },
+    "homepage":{
+        "font":{
+            "title":"Hammersmith One",
+            "text":"Hammersmith One"
+        },
+        "content":[
+            {
+                "src":"/img/HOME_01.png",
+                "title":"NY17 Titile",
+                "text":"NY17 Text"
+            },
+            {
+                "src":"/img/HOME_02.png",
+                "title":"NY18 Titile",
+                "text":"NY18 Text"
+            },
+            {
+                "src":"/img/HOME_03.png",
+                "title":"NY19 Titile",
+                "text":"NY19 Text"
+            },
+            {
+                "src":"/img/HOME_04.png",
+                "title":"NY19 Titile",
+                "text":"NY19 Text"
+            },
+            {
+                "src":"/img/HOME_05.jpg",
+                "title":"NY19 Titile",
+                "text":"NY19 Text"
+            }
+        ]
+    },
+    "short_films":{
+        "font":{
+            "name":"Hammersmith One",
+            "title":"Hammersmith One",
+            "text":"Hammersmith One"
+        },
+        "content":[
+            {
+                "id":1,
+                "name":"Short Film 1",
+                "src":"/img/NY17.jpeg",
+                "title":"NY17 Titile",
+                "text":"NY17 Text",
+                "font":{
+                    "text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/NY18.jpeg","text":"test1"},
+                    {"src":"/img/NY19.jpeg","text":"test2"},
+                    {"src":"/img/NY17.jpeg","text":"test3"},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                ]
+            },
+            {
+                "id":3,
+                "name":"Short Film 1",
+                "src":"/img/NY17.jpeg",
+                "title":"NY17 Titile",
+                "text":"NY17 Text",
+                "font":{
+                    "text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/NY18.jpeg","text":"test1"},
+                    {"src":"/img/NY19.jpeg","text":"test2"},
+                    {"src":"/img/NY17.jpeg","text":"test3"},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                ]
+            }
+        ]
+    },
+    "concept_designs":{
+        "font":{
+            "name":"Hammersmith One",
+            "title":"Hammersmith One",
+            "text":"Hammersmith One"
+        },
+        "content":[
+            {
+                "id":1,
+                "name":"Concept Design",
+                "src":"/img/NY17.jpeg",
+                "title":"NY17 Titile",
+                "text":"NY17 Text",
+                "font":{
+                    "text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/NY18.jpeg","text":"test1"},
+                    {"src":"/img/NY19.jpeg","text":"test2"},
+                    {"src":"/img/NY17.jpeg","text":"test3"},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                ]
+            }
+        ]
+    },
+    "illustration":{
+        "font":{
+            "name":"Hammersmith One",
+            "title":"Hammersmith One",
+            "text":"Hammersmith One"
+        },
+        "content":[
+            {
+                "id":1,
+                "name":"Illustration",
+                "src":"/img/NY17.jpeg",
+                "title":"NY17 Titile",
+                "text":"NY17 Text",
+                "font":{
+                    "text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/NY18.jpeg","text":"test1"},
+                    {"src":"/img/NY19.jpeg","text":"test2"},
+                    {"src":"/img/NY17.jpeg","text":"test3"},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                ]
+            }
+        ]
+    },
+    "drafting":{
+        "font":{
+            "name":"Hammersmith One",
+            "title":"Hammersmith One",
+            "text":"Hammersmith One"
+        },
+        "content":[
+            {
+                "id":1,
+                "name":"Drafting",
+                "src":"/img/NY17.jpeg",
+                "title":"NY17 Titile",
+                "text":"NY17 Text",
+                "font":{
+                    "text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/NY18.jpeg","text":"test1"},
+                    {"src":"/img/NY19.jpeg","text":"test2"},
+                    {"src":"/img/NY17.jpeg","text":"test3"},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                ]
+            }
+        ]
+    },
+    "architectures":{
+        "font":{
+            "name":"Hammersmith One",
+            "title":"Hammersmith One",
+            "text":"Hammersmith One"
+        },
+        "content":[
+            {
+                "id":1,
+                "name":"Short Film 1",
+                "src":"/img/NY17.jpeg",
+                "title":"NY17 Titile",
+                "text":"NY17 Text",
+                "font":{
+                    "text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/NY18.jpeg","text":"test1"},
+                    {"src":"/img/NY19.jpeg","text":"test2"},
+                    {"src":"/img/NY17.jpeg","text":"test3"},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                ]
+            }
+        ]
+    }
 }
