@@ -46,6 +46,7 @@
         "intro":"Hello. My name is zero. I'm a cute baby.",
         "phone":"miaomiao",
         "email":"miaomiao",
+	"resume":"/img/resume_Zero.png",
         "font":{
             "intro":"Hammersmith One",
             "contact":"Hammersmith One"
