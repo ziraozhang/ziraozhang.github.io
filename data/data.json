@@ -46,7 +46,7 @@
         "intro":"Hello. My name is zero. I'm a cute baby.",
         "phone":"miaomiao",
         "email":"miaomiao",
-	"resume":"/img/resume_Zero.png",
+	    "resume":"/img/resume_Zero.png",
         "font":{
             "intro":"Hammersmith One",
             "contact":"Hammersmith One"
@@ -102,10 +102,10 @@
                     "text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/NY18.jpeg","text":"test1"},
-                    {"src":"/img/NY19.jpeg","text":"test2"},
-                    {"src":"/img/NY17.jpeg","text":"test3"},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                    {"src":"/img/NY18.jpeg","text":"test1","ratio":1.85},
+                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1.85},
+                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1.85},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1.85}
                 ]
             },
             {
@@ -118,10 +118,10 @@
                     "text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/NY18.jpeg","text":"test1"},
-                    {"src":"/img/NY19.jpeg","text":"test2"},
-                    {"src":"/img/NY17.jpeg","text":"test3"},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                    {"src":"/img/NY18.jpeg","text":"test1","ratio":1},
+                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1},
+                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1.85}
                 ]
             }
         ]
@@ -143,10 +143,10 @@
                     "text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/NY18.jpeg","text":"test1"},
-                    {"src":"/img/NY19.jpeg","text":"test2"},
-                    {"src":"/img/NY17.jpeg","text":"test3"},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                    {"src":"/img/sque.jpg","text":"test1","ratio":1},
+                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1},
+                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1}
                 ]
             }
         ]
@@ -168,10 +168,10 @@
                     "text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/NY18.jpeg","text":"test1"},
-                    {"src":"/img/NY19.jpeg","text":"test2"},
-                    {"src":"/img/NY17.jpeg","text":"test3"},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                    {"src":"/img/NY18.jpeg","text":"test1","ratio":1.85},
+                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1.85},
+                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1.85},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1.85}
                 ]
             }
         ]
@@ -193,10 +193,10 @@
                     "text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/NY18.jpeg","text":"test1"},
-                    {"src":"/img/NY19.jpeg","text":"test2"},
-                    {"src":"/img/NY17.jpeg","text":"test3"},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                    {"src":"/img/NY18.jpeg","text":"test1","ratio":1.85},
+                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1.85},
+                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1.85},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1.85}
                 ]
             }
         ]
@@ -218,10 +218,10 @@
                     "text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/NY18.jpeg","text":"test1"},
-                    {"src":"/img/NY19.jpeg","text":"test2"},
-                    {"src":"/img/NY17.jpeg","text":"test3"},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4"}
+                    {"src":"/img/NY18.jpeg","text":"test1","ratio":1.85},
+                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1.85},
+                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1.85},
+                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1.85}
                 ]
             }
         ]
