@@ -42,7 +42,7 @@
         ]
     },
     "resume":{
-        "selfy":"/img/selfyy.JPG",
+        "selfy":"/img/selfyy.jpg",
         "intro":"Zirao (Zero) graduated from Zhejiang University in China with a bachelor's degree in Architecture. She has studied in Helsinki, London and Ithaca, exploring the culture and technologies of spatial design on varied scales. Last summer, she worked for CallisonRTKL Architectural Design Consulting Co., Ltd as a commercial space designer. Zero also worked for Heibai, a local drama troupe as a stage photographer for three years, and as a scenic designer on ORPHAN OF ZHAO, TWELFTH NIGHT, THE MARRIAGE OF FIGARO and assisted in lighting, acting, producing and stage management with other productions.",
         "phone":"626-861-7642",
         "email":"zzhang4@afi.edu",
@@ -152,7 +152,7 @@
             {
                 "id":3,
                 "name":"Motel Room",
-                "src":"/img/Short Film/Motel Room/MR_01.PNG",
+                "src":"/img/Short Film/Motel Room/MR_01.png",
                 "title":"Motel Room",
                 "text":"Production Design",
                 "column":2,
@@ -163,12 +163,12 @@
                     "pic_text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/Short Film/Motel Room/MR_01.PNG","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Motel Room/MR_02.PNG","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Motel Room/MR_03.PNG","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Motel Room/MR_04.PNG","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Motel Room/MR_05.PNG","text":"","ratio":1.78},
-                    {"src":"/img/Short Film/Motel Room/MR_06.PNG","text":"","ratio":1.78}
+                    {"src":"/img/Short Film/Motel Room/MR_01.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Motel Room/MR_02.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Motel Room/MR_03.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Motel Room/MR_04.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Motel Room/MR_05.png","text":"","ratio":1.78},
+                    {"src":"/img/Short Film/Motel Room/MR_06.png","text":"","ratio":1.78}
                 ],
                 "lines":[
                     [1,2],
@@ -289,7 +289,7 @@
             {
                 "id":1,
                 "name":"Illustration",
-                "src":"/img/Illustration/01.JPG",
+                "src":"/img/Illustration/01.jpg",
                 "title":"Illustration",
                 "text":"Illustration",
                 "column":3,
@@ -300,13 +300,13 @@
                     "pic_text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/Illustration/02.JPG","text":"","ratio":1.94},
-                    {"src":"/img/Illustration/01.JPG","text":"","ratio":1.56},
-                    {"src":"/img/Illustration/03.JPG","text":"","ratio":1.59},
-                    {"src":"/img/Illustration/04.JPG","text":"","ratio":1.27},
-                    {"src":"/img/Illustration/05.JPG","text":"","ratio":1.72},
-                    {"src":"/img/Illustration/07.PNG","text":"","ratio":1.57,"large":"true"},
-                    {"src":"/img/Illustration/06.PNG","text":"","ratio":1.01}
+                    {"src":"/img/Illustration/02.jpg","text":"","ratio":1.94},
+                    {"src":"/img/Illustration/01.jpg","text":"","ratio":1.56},
+                    {"src":"/img/Illustration/03.jpg","text":"","ratio":1.59},
+                    {"src":"/img/Illustration/04.jpg","text":"","ratio":1.27},
+                    {"src":"/img/Illustration/05.jpg","text":"","ratio":1.72},
+                    {"src":"/img/Illustration/07.png","text":"","ratio":1.57,"large":"true"},
+                    {"src":"/img/Illustration/06.png","text":"","ratio":1.01}
                 ],
                 "lines":[
                     [1,2],
