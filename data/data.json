@@ -33,7 +33,7 @@
             },
             {
                 "path":"/architectures/",
-                "name":"ARCHITECTURE"
+                "name":"STAGE+ARCH"
             },
             {
                 "path":"/resume/",
@@ -42,10 +42,10 @@
         ]
     },
     "resume":{
-        "selfy":"/img/selfy.jpeg",
-        "intro":"Hello. My name is zero. I'm a cute baby.",
-        "phone":"miaomiao",
-        "email":"miaomiao",
+        "selfy":"/img/selfyy.JPG",
+        "intro":"Zirao (Zero) graduated from Zhejiang University in China with a bachelor's degree in Architecture. She has studied in Helsinki, London and Ithaca, exploring the culture and technologies of spatial design on varied scales. Last summer, she worked for CallisonRTKL Architectural Design Consulting Co., Ltd as a commercial space designer. Zero also worked for Heibai, a local drama troupe as a stage photographer for three years, and as a scenic designer on ORPHAN OF ZHAO, TWELFTH NIGHT, THE MARRIAGE OF FIGARO and assisted in lighting, acting, producing and stage management with other productions.",
+        "phone":"626-861-7642",
+        "email":"zzhang4@afi.edu",
 	    "resume":"/img/resume_Zero.png",
         "font":{
             "intro":"Hammersmith One",
@@ -57,7 +57,7 @@
             "title":"Hammersmith One",
             "text":"Hammersmith One"
         },
-        "content":[
+        "pics":[
             {
                 "src":"/img/HOME_01.png",
                 "title":"NY17 Titile",
@@ -86,142 +86,437 @@
         ]
     },
     "short_films":{
-        "font":{
-            "name":"Hammersmith One",
-            "title":"Hammersmith One",
-            "text":"Hammersmith One"
-        },
         "content":[
             {
                 "id":1,
-                "name":"Short Film 1",
-                "src":"/img/NY17.jpeg",
-                "title":"NY17 Titile",
-                "text":"NY17 Text",
+                "name":"Sleepwalker",
+                "src":"/img/Short Film/Sleepwalker/SW_05 copy.png",
+                "title":"Sleepwalker",
+                "text":"Production Design",
+                "column":3,
                 "font":{
-                    "text":"Hammersmith One"
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Acme",
+                    "pic_text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/NY18.jpeg","text":"test1","ratio":1.85},
-                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1.85},
-                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1.85},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1.85}
+                    {"src":"/img/Short Film/Sleepwalker/SW_01.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Sleepwalker/SW_02.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Sleepwalker/SW_03.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Sleepwalker/SW_04.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Sleepwalker/SW_05.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Sleepwalker/SW_06.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Sleepwalker/SW_07.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Sleepwalker/SW_08.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Sleepwalker/SW_09.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Sleepwalker/SW_10.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Sleepwalker/SW_11.png","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Sleepwalker/SW_12.png","text":"","ratio":2.39}
+                ],
+                "lines":[
+                    [1,2,3],
+                    [4,5,6],
+                    [7,8,9],
+                    [10,11,12]
+                ]
+            },
+            {
+                "id":2,
+                "name":"Last Dance",
+                "src":"/img/Short Film/the Last Dance/LD_02 copy.png",
+                "title":"Last Dance",
+                "text":"Production Design",
+                "column":2,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Hammersmith One",
+                    "title":"Hammersmith One",
+                    "pic_text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/Short Film/the Last Dance/LD_01.png","text":"","ratio":1.9},
+                    {"src":"/img/Short Film/the Last Dance/LD_02.png","text":"","ratio":1.9},
+                    {"src":"/img/Short Film/the Last Dance/LD_03.png","text":"","ratio":1.9},
+                    {"src":"/img/Short Film/the Last Dance/LD_04.png","text":"","ratio":1.9},
+                    {"src":"/img/Short Film/the Last Dance/LD_05.png","text":"","ratio":1.9},
+                    {"src":"/img/Short Film/the Last Dance/LD_06.png","text":"","ratio":1.9},
+                    {"src":"/img/Short Film/the Last Dance/LD_07.png","text":"","ratio":1.9}
+                ],
+                "lines":[
+                    [1,2,3],
+                    [4,5,6],
+                    [7]
                 ]
             },
             {
                 "id":3,
-                "name":"Short Film 1",
-                "src":"/img/NY17.jpeg",
-                "title":"NY17 Titile",
-                "text":"NY17 Text",
+                "name":"Motel Room",
+                "src":"/img/Short Film/Motel Room/MR_01.PNG",
+                "title":"Motel Room",
+                "text":"Production Design",
+                "column":2,
                 "font":{
-                    "text":"Hammersmith One"
+                    "name":"Hammersmith One",
+                    "text":"Hammersmith One",
+                    "title":"Hammersmith One",
+                    "pic_text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/NY18.jpeg","text":"test1","ratio":1},
-                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1},
-                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1.85}
+                    {"src":"/img/Short Film/Motel Room/MR_01.PNG","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Motel Room/MR_02.PNG","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Motel Room/MR_03.PNG","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Motel Room/MR_04.PNG","text":"","ratio":2.39},
+                    {"src":"/img/Short Film/Motel Room/MR_05.PNG","text":"","ratio":1.78},
+                    {"src":"/img/Short Film/Motel Room/MR_06.PNG","text":"","ratio":1.78}
+                ],
+                "lines":[
+                    [1,2],
+                    [3,4],
+                    [5,6]
+                ]
+            },
+            {
+                "id":4,
+                "name":"Man in Blue",
+                "src":"/img/Short Film/Man in Blue/MinB_09.jpg",
+                "title":"Man in Blue",
+                "text":"Production Design",
+                "column":2,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Hammersmith One",
+                    "title":"Hammersmith One",
+                    "pic_text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/Short Film/Man in Blue/MinB_01.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Short Film/Man in Blue/MinB_02.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Short Film/Man in Blue/MinB_03.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Short Film/Man in Blue/MinB_04.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Short Film/Man in Blue/MinB_05.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Short Film/Man in Blue/MinB_06.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Short Film/Man in Blue/MinB_07.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Short Film/Man in Blue/MinB_08.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Short Film/Man in Blue/MinB_09.jpg","text":"","ratio":1.78}
+                ],
+                "lines":[
+                    [1,2,3],
+                    [4,5,6],
+                    [7,8,9]
                 ]
             }
         ]
     },
     "concept_designs":{
-        "font":{
-            "name":"Hammersmith One",
-            "title":"Hammersmith One",
-            "text":"Hammersmith One"
-        },
         "content":[
             {
                 "id":1,
-                "name":"Concept Design",
-                "src":"/img/NY17.jpeg",
-                "title":"NY17 Titile",
-                "text":"NY17 Text",
+                "name":"All That Jazz",
+                "src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_01.jpg",
+                "title":"All That Jazz",
+                "text":"All That Jazz",
+                "column":3,
                 "font":{
-                    "text":"Hammersmith One"
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Acme",
+                    "pic_text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/sque.jpg","text":"test1","ratio":1},
-                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1},
-                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1}
+                    {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_01.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_02.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_03.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_04.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_05.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_11.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_09.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_10.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_06.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_07.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_08.jpg","text":"","ratio":1.545}
+                ],
+                "lines":[
+                    [1,2,3],
+                    [4,5,6],
+                    [7,8],
+                    [9],
+                    [10],
+                    [11]
+                ]
+            },
+            {
+                "id":2,
+                "name":"Broken Down",
+                "src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_01.jpg",
+                "title":"Broken Down",
+                "text":"Broken Down",
+                "column":3,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Acme",
+                    "pic_text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_01.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_02.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_03.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_04.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_05.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_06.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_10.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_08.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_09.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_07.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_11.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_12.jpg","text":"","ratio":1.545},
+                    {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_13.jpg","text":"","ratio":1.545}
+                ],
+                "lines":[
+                    [1,2,3],
+                    [4,5,6],
+                    [7,8,9],
+                    [10],
+                    [11,12,13]
                 ]
             }
         ]
     },
     "illustration":{
-        "font":{
-            "name":"Hammersmith One",
-            "title":"Hammersmith One",
-            "text":"Hammersmith One"
-        },
+        
         "content":[
             {
                 "id":1,
                 "name":"Illustration",
-                "src":"/img/NY17.jpeg",
-                "title":"NY17 Titile",
-                "text":"NY17 Text",
+                "src":"/img/Illustration/01.JPG",
+                "title":"Illustration",
+                "text":"Illustration",
+                "column":3,
                 "font":{
-                    "text":"Hammersmith One"
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Acme",
+                    "pic_text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/NY18.jpeg","text":"test1","ratio":1.85},
-                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1.85},
-                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1.85},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1.85}
+                    {"src":"/img/Illustration/02.JPG","text":"","ratio":1.94},
+                    {"src":"/img/Illustration/01.JPG","text":"","ratio":1.56},
+                    {"src":"/img/Illustration/03.JPG","text":"","ratio":1.59},
+                    {"src":"/img/Illustration/04.JPG","text":"","ratio":1.27},
+                    {"src":"/img/Illustration/05.JPG","text":"","ratio":1.72},
+                    {"src":"/img/Illustration/07.PNG","text":"","ratio":1.57,"large":"true"},
+                    {"src":"/img/Illustration/06.PNG","text":"","ratio":1.01}
+                ],
+                "lines":[
+                    [1,2],
+                    [3,4,5],
+                    [6,7]
                 ]
             }
         ]
     },
     "drafting":{
-        "font":{
-            "name":"Hammersmith One",
-            "title":"Hammersmith One",
-            "text":"Hammersmith One"
-        },
+        
         "content":[
             {
                 "id":1,
                 "name":"Drafting",
-                "src":"/img/NY17.jpeg",
-                "title":"NY17 Titile",
-                "text":"NY17 Text",
+                "src":"/img/Drafting/drafting_01.png",
+                "title":"Drafting",
+                "text":"Drafting",
+                "column":0,
                 "font":{
-                    "text":"Hammersmith One"
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Acme",
+                    "pic_text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/NY18.jpeg","text":"test1","ratio":1.85},
-                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1.85},
-                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1.85},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1.85}
+                    {"src":"/img/Drafting/drafting_01.png","text":"","ratio":1.49},
+                    {"src":"/img/Drafting/drafting_02.png","text":"","ratio":1.50},
+                    {"src":"/img/Drafting/drafting_03.png","text":"","ratio":1.50}
+                ],
+                "lines":[
+                    [1,2,3]
                 ]
             }
         ]
     },
     "architectures":{
-        "font":{
-            "name":"Hammersmith One",
-            "title":"Hammersmith One",
-            "text":"Hammersmith One"
-        },
+        
         "content":[
             {
                 "id":1,
-                "name":"Short Film 1",
-                "src":"/img/NY17.jpeg",
-                "title":"NY17 Titile",
-                "text":"NY17 Text",
+                "name":"Figaro",
+                "src":"/img/Stage+Arch/Figaro/fig_01.png",
+                "title":"Figaro",
+                "text":"Scenic Design",
+                "column":3,
                 "font":{
-                    "text":"Hammersmith One"
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Acme",
+                    "pic_text":"Hammersmith One"
                 },
                 "pics":[
-                    {"src":"/img/NY18.jpeg","text":"test1","ratio":1.85},
-                    {"src":"/img/NY19.jpeg","text":"test2","ratio":1.85},
-                    {"src":"/img/NY17.jpeg","text":"test3","ratio":1.85},
-                    {"src":"/img/Screen Shot 2020-02-15 at 11.47.13 PM.png","text":"test4","ratio":1.85}
+                    {"src":"/img/Stage+Arch/Figaro/fig_01.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Figaro/fig_02.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Figaro/fig_03.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Figaro/fig_04.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Figaro/fig_05.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Figaro/fig_06.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Figaro/fig_07.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Figaro/fig_08.png","text":"","ratio":1.50}
+                ],
+                "lines":[
+                    [1,2,3],
+                    [4,5],
+                    [6,7,8]
+                ]
+            },
+            {
+                "id":2,
+                "name":"Orphan of Zhao",
+                "src":"/img/Stage+Arch/Orphan of Zhao/ofz_01",
+                "title":"Orphan of Zhao",
+                "text":"Scenic Design",
+                "column":3,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Acme",
+                    "pic_text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_01","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_02.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_03.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_04.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_05.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_06.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_07.jpg","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_08.jpg","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_09.jpg","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_10.jpg","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_11.jpg","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_12.jpg","text":"","ratio":1.50}
+                ],
+                "lines":[
+                    [1,2,3],
+                    [4,5,6],
+                    [7,8,9],
+                    [10,11,12]
+                ]
+            },
+            {
+                "id":3,
+                "name":"Lotus",
+                "src":"/img/Stage+Arch/Lotus/lot_01.png",
+                "title":"Lotus Hall",
+                "text":"Architecture Design",
+                "column":3,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Acme",
+                    "pic_text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/Stage+Arch/Lotus/lot_01.png","text":"","ratio":1.414},
+                    {"src":"/img/Stage+Arch/Lotus/lot_02.png","text":"","ratio":1.536},
+                    {"src":"/img/Stage+Arch/Lotus/lot_03.png","text":"","ratio":1.414},
+                    {"src":"/img/Stage+Arch/Lotus/lot_04.png","text":"","ratio":1.414}
+                ],
+                "lines":[
+                    [1],
+                    [2],
+                    [3],
+                    [4]
+                ]
+            },
+            {
+                "id":4,
+                "name":"Emotion Transformer",
+                "src":"/img/Stage+Arch/Emotion Transformer/et_03.jpg",
+                "title":"Emotion Transformer",
+                "text":"Architecture Design",
+                "column":3,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Acme",
+                    "pic_text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/Stage+Arch/Emotion Transformer/et_01.png","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Emotion Transformer/et_08.jpg","text":"","ratio":1},
+                    {"src":"/img/Stage+Arch/Emotion Transformer/et_02.jpg","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Emotion Transformer/et_03.jpg","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Emotion Transformer/et_04.jpg","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Emotion Transformer/et_05.jpg","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Emotion Transformer/et_06.jpg","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Emotion Transformer/et_07.jpg","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Emotion Transformer/et_09.png","text":"","ratio":0.37},
+                    {"src":"/img/Stage+Arch/Emotion Transformer/et_10.png","text":"","ratio":0.32},
+                    {"src":"/img/Stage+Arch/Emotion Transformer/et_11.png","text":"","ratio":0.37}
+                ],
+                "lines":[
+                    [1,2],
+                    [3,4,5],
+                    [6,7,8],
+                    [9,10,11]
+                ]
+            },
+            {
+                "id":5,
+                "name":"Urb",
+                "src":"/img/Stage+Arch/Urb/urb_04.jpg",
+                "title":"Urban Oasis",
+                "text":"Urban Design",
+                "column":3,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Acme",
+                    "pic_text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/Stage+Arch/Urb/urb_01.png","text":"","ratio":1.46},
+                    {"src":"/img/Stage+Arch/Urb/urb_02.jpg","text":"","ratio":2.616},
+                    {"src":"/img/Stage+Arch/Urb/urb_03.jpg","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Urb/urb_04.jpg","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Urb/urb_05.jpg","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Urb/urb_06.jpg","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Urb/urb_07.jpg","text":"","ratio":2.065}
+                ],
+                "lines":[
+                    [1],
+                    [2],
+                    [3,4,5,6],
+                    [7]
+                ]
+            },
+            {
+                "id":6,
+                "name":"Wood Hall",
+                "src":"/img/Stage+Arch/Wood Hall/Wood_01.jpg",
+                "title":"Wood Hall",
+                "text":"Structure Design",
+                "column":3,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Acme",
+                    "pic_text":"Hammersmith One"
+                },
+                "pics":[
+                    {"src":"/img/Stage+Arch/Wood Hall/Wood_01.jpg","text":"","ratio":1.5},
+                    {"src":"/img/Stage+Arch/Wood Hall/Wood_02.jpeg","text":"","ratio":1.33},
+                    {"src":"/img/Stage+Arch/Wood Hall/Wood_03.jpg","text":"","ratio":1.56}
+                ],
+                "lines":[
+                    [1,2,3]
                 ]
             }
         ]
