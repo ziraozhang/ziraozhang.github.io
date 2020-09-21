@@ -60,28 +60,28 @@
         "pics":[
             {
                 "src":"/img/HOME_01.png",
-                "title":"NY17 Titile",
-                "text":"NY17 Text"
+                "title":"",
+                "text":"All That Jazz Remake"
             },
             {
                 "src":"/img/HOME_02.png",
-                "title":"NY18 Titile",
-                "text":"NY18 Text"
+                "title":"",
+                "text":""
             },
             {
                 "src":"/img/HOME_03.png",
-                "title":"NY19 Titile",
-                "text":"NY19 Text"
+                "title":"",
+                "text":"Broken Down"
             },
             {
                 "src":"/img/HOME_04.png",
-                "title":"NY19 Titile",
-                "text":"NY19 Text"
+                "title":"",
+                "text":"Sleepwalker"
             },
             {
                 "src":"/img/HOME_05.jpg",
-                "title":"NY19 Titile",
-                "text":"NY19 Text"
+                "title":"",
+                "text":"Man in Blue"
             }
         ]
     },
@@ -130,7 +130,7 @@
                 "column":2,
                 "font":{
                     "name":"Hammersmith One",
-                    "text":"Hammersmith One",
+                    "text":"Quicksand",
                     "title":"Hammersmith One",
                     "pic_text":"Hammersmith One"
                 },
@@ -158,7 +158,7 @@
                 "column":2,
                 "font":{
                     "name":"Hammersmith One",
-                    "text":"Hammersmith One",
+                    "text":"Quicksand",
                     "title":"Hammersmith One",
                     "pic_text":"Hammersmith One"
                 },
@@ -185,7 +185,7 @@
                 "column":2,
                 "font":{
                     "name":"Hammersmith One",
-                    "text":"Hammersmith One",
+                    "text":"Quicksand",
                     "title":"Hammersmith One",
                     "pic_text":"Hammersmith One"
                 },
@@ -215,7 +215,7 @@
                 "name":"All That Jazz",
                 "src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_01.jpg",
                 "title":"All That Jazz",
-                "text":"All That Jazz",
+                "text":"",
                 "column":3,
                 "font":{
                     "name":"Hammersmith One",
@@ -250,7 +250,7 @@
                 "name":"Broken Down",
                 "src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_01.jpg",
                 "title":"Broken Down",
-                "text":"Broken Down",
+                "text":"",
                 "column":3,
                 "font":{
                     "name":"Hammersmith One",
@@ -300,6 +300,14 @@
                     "pic_text":"Hammersmith One"
                 },
                 "pics":[
+                    {"src":"/img/Illustration/ZZhang_PI_01_200619.png","text":"","ratio":1.81},
+                    {"src":"/img/Illustration/ZZhang_PI_02_200619.png","text":"","ratio":1.81},
+                    {"src":"/img/Illustration/ZZhang_PI_03_200619.png","text":"","ratio":1.81},
+                    {"src":"/img/Illustration/ZZhang_PI_04_200619.png","text":"","ratio":1.63},
+                    {"src":"/img/Illustration/200724_俄罗斯猫花.png","text":"","ratio":0.84},
+                    {"src":"/img/Illustration/200827_He51.png","text":"","ratio":1.60},
+                    {"src":"/img/Illustration/200716_girl.png","text":"","ratio":1},
+                    {"src":"/img/Illustration/200825_pulp fiction.png","text":"","ratio":2.35},
                     {"src":"/img/Illustration/02.JPG","text":"","ratio":1.94},
                     {"src":"/img/Illustration/01.JPG","text":"","ratio":1.56},
                     {"src":"/img/Illustration/03.JPG","text":"","ratio":1.59},
@@ -309,9 +317,13 @@
                     {"src":"/img/Illustration/06.png","text":"","ratio":1.01}
                 ],
                 "lines":[
-                    [1,2],
-                    [3,4,5],
-                    [6,7]
+                    [1,2,3],
+                    [4],
+                    [5,6,7],
+                    [8],
+                    [9,10],
+                    [11,12,13],
+                    [14,15]
                 ]
             }
         ]
@@ -335,10 +347,16 @@
                 "pics":[
                     {"src":"/img/Drafting/drafting_01.png","text":"","ratio":1.49},
                     {"src":"/img/Drafting/drafting_02.png","text":"","ratio":1.50},
-                    {"src":"/img/Drafting/drafting_03.png","text":"","ratio":1.50}
+                    {"src":"/img/Drafting/drafting_03.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Figaro/fig_06.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Figaro/fig_07.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Figaro/fig_08.png","text":"","ratio":1.50},
+                    {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_06.png","text":"","ratio":1.50}
                 ],
                 "lines":[
-                    [1,2,3]
+                    [1,2,3],
+                    [4,5,6],
+                    [7]
                 ]
             }
         ]
