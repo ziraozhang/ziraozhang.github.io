@@ -13,7 +13,7 @@
         "content":[
             {
                 "path":"/home/",
-                "name":"HOME"
+                "name":"PORTFOLIO"
             },
             {
                 "path":"/short_films/",
@@ -21,11 +21,11 @@
             },
             {
                 "path":"/concept_designs/1",
-                "name":"CONCEPT DESIGN"
+                "name":"DESIGN PROJECT"
             },
             {
                 "path":"/illustration/1",
-                "name":"ILLUSTRATION"
+                "name":"CONCEPT ART"
             },
             {
                 "path":"/drafting/1",
@@ -59,29 +59,108 @@
         },
         "pics":[
             {
-                "src":"/img/HOME_01.png",
-                "title":"",
-                "text":"All That Jazz Remake"
-            },
-            {
-                "src":"/img/HOME_02.png",
+                "src":"/img/PORTFOLIO/portfolio_011.png",
                 "title":"",
                 "text":""
             },
             {
-                "src":"/img/HOME_03.png",
+                "src":"/img/PORTFOLIO/portfolio_012.png",
                 "title":"",
-                "text":"Broken Down"
+                "text":""
             },
             {
-                "src":"/img/HOME_04.png",
+                "src":"/img/PORTFOLIO/portfolio_013.png",
                 "title":"",
-                "text":"Sleepwalker"
+                "text":""
             },
             {
-                "src":"/img/HOME_05.jpg",
+                "src":"/img/PORTFOLIO/portfolio_014.png",
                 "title":"",
-                "text":"Man in Blue"
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_015.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_016.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_017.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_018.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_019.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_021.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_022.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_023.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_024.png",
+                "title":"",
+                "text":""
+            },{
+                "src":"/img/PORTFOLIO/portfolio_025.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_026.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_031.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_032.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_033.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_034.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_035.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/portfolio_036.png",
+                "title":"",
+                "text":""
             }
         ]
     },
