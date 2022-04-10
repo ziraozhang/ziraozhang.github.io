@@ -16,12 +16,8 @@
                 "name":"PORTFOLIO"
             },
             {
-                "path":"/short_films/",
-                "name":"SHORT FILM"
-            },
-            {
-                "path":"/concept_designs/1",
-                "name":"DESIGN PROJECT"
+                "path":"/works/",
+                "name":"WORK"
             },
             {
                 "path":"/illustration/1",
@@ -29,7 +25,7 @@
             },
             {
                 "path":"/drafting/1",
-                "name":"DRAFTING"
+                "name":"SET DESIGN"
             },
             {
                 "path":"/architectures/",
@@ -58,36 +54,6 @@
             "text":"Hammersmith One"
         },
         "pics":[
-            {
-                "src":"/img/PORTFOLIO/disney_pf.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/P1.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/disney_pf2.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/P2.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/disney_pf3.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/P3.png",
-                "title":"",
-                "text":""
-            },
             {
                 "src":"/img/PORTFOLIO/CHATEAU EST_newnewnew_0518.png",
                 "title":"",
@@ -129,6 +95,51 @@
                 "text":""
             },
             {
+                "src":"/img/PORTFOLIO/Urban Renewal_0.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/Off Work_PS_000.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/disney_pf12.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/disney_pf.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/P1.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/disney_pf2.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/P2.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/disney_pf3.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/P3.png",
+                "title":"",
+                "text":""
+            },
+            {
                 "src":"/img/PORTFOLIO/Monty.jpg",
                 "title":"",
                 "text":""
@@ -159,21 +170,6 @@
                 "text":""
             },
             {
-                "src":"/img/PORTFOLIO/Urban Renewal_0.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/Off Work_PS_000.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/disney_pf12.png",
-                "title":"",
-                "text":""
-            },
-            {
                 "src":"/img/PORTFOLIO/003.PNG",
                 "title":"",
                 "text":""
@@ -187,41 +183,290 @@
                 "src":"/img/PORTFOLIO/disney_pf13.png",
                 "title":"",
                 "text":""
-            },{
+            },
+            {
                 "src":"/img/PORTFOLIO/disney_pf14.png",
                 "title":"",
                 "text":""
             }
         ]
     },
-    "short_films":{
+    "works":{
+        "group_font":"Montserrat",
+        "content_group":[
+            "Art Department",
+            "Production Design"
+        ],
+        "groups":[
+            [5,6,7,9,10,8],
+            [13,11,12,14,15,1,2,3,4]
+        ],
         "content":[
             {
-                "id":1,
-                "name":"Sleepwalker",
-                "src":"/img/Short Film/Sleepwalker/SW_05 copy.png",
-                "title":"Sleepwalker",
-                "text":"Production Design",
+                "id":5,
+                "name":"Harry Potter: Hogwarts Tournament of Houses",
+                "src":"/img/Work/aHarry Potter Quiz Show/cover.jpg",
+                "title":"Harry Potter: Hogwarts Tournament of Houses | TBS",
+                "text":"Concept Illustrator",
+                "column":0,
+                "imdb":"https://www.imdb.com/title/tt15431326/?ref_=nm_flmg_ardp_2",
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
+                }
+            },
+            {
+                "id":6,
+                "name":"Beef",
+                "src":"/img/Work/aBeef/beef.jpeg",
+                "title":"Beef | A24 | Netflix",
+                "text":"Concept Illustrator/Art Department",
+                "column":0,
+                "imdb":"https://www.imdb.com/title/tt14403178/?ref_=nm_flmg_ardp_1",
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
+                }
+            },
+            {
+                "id":7,
+                "name":"Modern Love·Japan",
+                "src":"/img/Work/aModern Love Japan/cover_mlj.jpg",
+                "title":"Modern Love·Japan | Amazon",
+                "text":"Art Department",
+                "column":0,
+                "imdb":"https://www.imdb.com/title/tt8543390/?ref_=fn_al_tt_1",
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
+                }
+            },
+            {
+                "id":9,
+                "name":"Boo, Bitch",
+                "src":"/img/Work/aBoo, Bitch/cover_bb.png",
+                "title":"Boo, Bitch | Netflix",
+                "text":"Art Department",
+                "column":0,
+                "imdb":"https://www.imdb.com/title/tt14097144/?ref_=fn_al_tt_1",
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
+                }
+            },
+            {
+                "id":10,
+                "name":"The Activist",
+                "src":"/img/Work/aThe Activist/cover_activist.jpeg",
+                "title":"The Activist | CBS",
+                "text":"Assistant Art Director",
+                "column":0,
+                "imdb":"https://www.imdb.com/title/tt15398748/?ref_=nv_sr_srsg_2",
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
+                }
+            },
+            {
+                "id":8,
+                "name":"Blippi: Holiday Special 2021",
+                "src":"/img/Work/aBlippi/cover_blp.jpg",
+                "title":"Blippi: Holiday Special 2021 | Youtube",
+                "text":"Production Designer",
+                "column":0,
+                "imdb":"https://www.imdb.com/title/tt10223226/?ref_=ttep_ep_tt",
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
+                }
+            },
+            {
+                "id":13,
+                "name":"The Story of Lily Lee Chen",
+                "src":"/img/Work/The Story of Lily Lee Chen/Lily_00.png",
+                "title":"The Story of Lily Lee Chen",
+                "text":"Production Designer",
+                "column":1,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
+                },
+                "pics":[
+                    {"src":"/img/Work/The Story of Lily Lee Chen/Lily_01.png","text":"","ratio":1.82}
+                ],
+                "lines":[
+                    [1]
+                ]
+            },
+            {
+                "id":11,
+                "name":"One Man Band",
+                "src":"/img/Work/One Man Band/OMB_09.png",
+                "title":"One Man Band",
+                "text":"Production Designer",
                 "column":3,
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Acme",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
-                    {"src":"/img/Short Film/Sleepwalker/SW_01.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Sleepwalker/SW_02.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Sleepwalker/SW_03.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Sleepwalker/SW_04.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Sleepwalker/SW_05.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Sleepwalker/SW_06.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Sleepwalker/SW_07.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Sleepwalker/SW_08.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Sleepwalker/SW_09.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Sleepwalker/SW_10.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Sleepwalker/SW_11.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Sleepwalker/SW_12.png","text":"","ratio":2.39}
+                    {"src":"/img/Work/One Man Band/OMB_01.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/One Man Band/OMB_02.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/One Man Band/OMB_03.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/One Man Band/OMB_04.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/One Man Band/OMB_05.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/One Man Band/OMB_06.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/One Man Band/OMB_07.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/One Man Band/OMB_08.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/One Man Band/OMB_09.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/One Man Band/OMB_00.png","text":"","ratio":2.39}
+                ],
+                "lines":[
+                    [1,2],
+                    [3,4],
+                    [5,6],
+                    [7,8],
+                    [9,10]
+                ]
+            },
+            {
+                "id":12,
+                "name":"Shore",
+                "src":"/img/Work/Shore/Shore_03.png",
+                "title":"Shore",
+                "text":"Production Designer",
+                "column":3,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
+                },
+                "pics":[
+                    {"src":"/img/Work/Shore/Shore_01.png","text":"","ratio":1.75},
+                    {"src":"/img/Work/Shore/Shore_02.png","text":"","ratio":1.75},
+                    {"src":"/img/Work/Shore/Shore_03.png","text":"","ratio":1.75},
+                    {"src":"/img/Work/Shore/Shore_04.png","text":"","ratio":1.75},
+                    {"src":"/img/Work/Shore/Shore_05.png","text":"","ratio":1.75},
+                    {"src":"/img/Work/Shore/Shore_06.png","text":"","ratio":1.75},
+                    {"src":"/img/Work/Shore/Shore_07.png","text":"","ratio":1.75},
+                    {"src":"/img/Work/Shore/Shore_08.png","text":"","ratio":1.75},
+                    {"src":"/img/Work/Shore/Shore_09.png","text":"","ratio":1.75},
+                    {"src":"/img/Work/Shore/Shore_00.png","text":"","ratio":1.75}
+                ],
+                "lines":[
+                    [1,2,3],
+                    [4,5,6],
+                    [7,8,9],
+                    [10]
+                ]
+            },
+            {
+                "id":14,
+                "name":"Blink",
+                "src":"/img/Work/Blink/Blink_05.png",
+                "title":"Blink",
+                "text":"Production Designer",
+                "column":3,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
+                },
+                "pics":[
+                    {"src":"/img/Work/Blink/Blink_01.png","text":"","ratio":2.64},
+                    {"src":"/img/Work/Blink/Blink_02.png","text":"","ratio":2.64},
+                    {"src":"/img/Work/Blink/Blink_03.png","text":"","ratio":2.64},
+                    {"src":"/img/Work/Blink/Blink_04.png","text":"","ratio":2.64},
+                    {"src":"/img/Work/Blink/Blink_05.png","text":"","ratio":2.64},
+                    {"src":"/img/Work/Blink/Blink_00.png","text":"","ratio":2.64}
+                ],
+                "lines":[
+                    [1,2],
+                    [3,4],
+                    [5,6]
+                ]
+            },
+            {
+                "id":15,
+                "name":"Cake",
+                "src":"/img/Work/Cake/Cake_01.png",
+                "title":"Cake",
+                "text":"Production Designer",
+                "column":3,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
+                },
+                "pics":[
+                    {"src":"/img/Work/Cake/Cake_01.png","text":"","ratio":2.38},
+                    {"src":"/img/Work/Cake/Cake_02.png","text":"","ratio":2.38},
+                    {"src":"/img/Work/Cake/Cake_03.png","text":"","ratio":2.38},
+                    {"src":"/img/Work/Cake/Cake_04.png","text":"","ratio":2.38},
+                    {"src":"/img/Work/Cake/Cake_05.png","text":"","ratio":2.38}
+                ],
+                "lines":[
+                    [1,2,3],
+                    [4,5]
+                ]
+            },
+            {
+                "id":1,
+                "name":"Sleepwalker",
+                "src":"/img/Work/Sleepwalker/SW_05 copy.png",
+                "title":"Sleepwalker",
+                "text":"Production Designer",
+                "column":3,
+                "font":{
+                    "name":"Hammersmith One",
+                    "text":"Quicksand",
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
+                },
+                "pics":[
+                    {"src":"/img/Work/Sleepwalker/SW_01.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Sleepwalker/SW_02.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Sleepwalker/SW_03.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Sleepwalker/SW_04.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Sleepwalker/SW_05.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Sleepwalker/SW_06.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Sleepwalker/SW_07.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Sleepwalker/SW_08.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Sleepwalker/SW_09.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Sleepwalker/SW_10.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Sleepwalker/SW_11.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Sleepwalker/SW_12.png","text":"","ratio":2.39}
                 ],
                 "lines":[
                     [1,2,3],
@@ -233,24 +478,25 @@
             {
                 "id":2,
                 "name":"Last Dance",
-                "src":"/img/Short Film/the Last Dance/LD_02 copy.png",
+                "src":"/img/Work/the Last Dance/LD_02 copy.png",
                 "title":"Last Dance",
-                "text":"Production Design",
+                "text":"Production Designer",
                 "column":2,
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Hammersmith One",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
-                    {"src":"/img/Short Film/the Last Dance/LD_01.png","text":"","ratio":1.9},
-                    {"src":"/img/Short Film/the Last Dance/LD_02.png","text":"","ratio":1.9},
-                    {"src":"/img/Short Film/the Last Dance/LD_03.png","text":"","ratio":1.9},
-                    {"src":"/img/Short Film/the Last Dance/LD_04.png","text":"","ratio":1.9},
-                    {"src":"/img/Short Film/the Last Dance/LD_05.png","text":"","ratio":1.9},
-                    {"src":"/img/Short Film/the Last Dance/LD_06.png","text":"","ratio":1.9},
-                    {"src":"/img/Short Film/the Last Dance/LD_07.png","text":"","ratio":1.9}
+                    {"src":"/img/Work/the Last Dance/LD_01.png","text":"","ratio":1.9},
+                    {"src":"/img/Work/the Last Dance/LD_02.png","text":"","ratio":1.9},
+                    {"src":"/img/Work/the Last Dance/LD_03.png","text":"","ratio":1.9},
+                    {"src":"/img/Work/the Last Dance/LD_04.png","text":"","ratio":1.9},
+                    {"src":"/img/Work/the Last Dance/LD_05.png","text":"","ratio":1.9},
+                    {"src":"/img/Work/the Last Dance/LD_06.png","text":"","ratio":1.9},
+                    {"src":"/img/Work/the Last Dance/LD_07.png","text":"","ratio":1.9}
                 ],
                 "lines":[
                     [1,2,3],
@@ -261,23 +507,24 @@
             {
                 "id":3,
                 "name":"Motel Room",
-                "src":"/img/Short Film/Motel Room/MR_01.png",
+                "src":"/img/Work/Motel Room/MR_01.png",
                 "title":"Motel Room",
-                "text":"Production Design",
+                "text":"Production Designer",
                 "column":2,
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Hammersmith One",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
-                    {"src":"/img/Short Film/Motel Room/MR_01.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Motel Room/MR_02.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Motel Room/MR_03.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Motel Room/MR_04.png","text":"","ratio":2.39},
-                    {"src":"/img/Short Film/Motel Room/MR_05.png","text":"","ratio":1.78},
-                    {"src":"/img/Short Film/Motel Room/MR_06.png","text":"","ratio":1.78}
+                    {"src":"/img/Work/Motel Room/MR_01.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Motel Room/MR_02.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Motel Room/MR_03.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Motel Room/MR_04.png","text":"","ratio":2.39},
+                    {"src":"/img/Work/Motel Room/MR_05.png","text":"","ratio":1.78},
+                    {"src":"/img/Work/Motel Room/MR_06.png","text":"","ratio":1.78}
                 ],
                 "lines":[
                     [1,2],
@@ -288,26 +535,27 @@
             {
                 "id":4,
                 "name":"Man in Blue",
-                "src":"/img/Short Film/Man in Blue/MinB_09.jpg",
+                "src":"/img/Work/Man in Blue/MinB_09.jpg",
                 "title":"Man in Blue",
-                "text":"Production Design",
+                "text":"Production Designer",
                 "column":2,
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Hammersmith One",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
-                    {"src":"/img/Short Film/Man in Blue/MinB_01.jpg","text":"","ratio":1.78},
-                    {"src":"/img/Short Film/Man in Blue/MinB_02.jpg","text":"","ratio":1.78},
-                    {"src":"/img/Short Film/Man in Blue/MinB_03.jpg","text":"","ratio":1.78},
-                    {"src":"/img/Short Film/Man in Blue/MinB_04.jpg","text":"","ratio":1.78},
-                    {"src":"/img/Short Film/Man in Blue/MinB_05.jpg","text":"","ratio":1.78},
-                    {"src":"/img/Short Film/Man in Blue/MinB_06.jpg","text":"","ratio":1.78},
-                    {"src":"/img/Short Film/Man in Blue/MinB_07.jpg","text":"","ratio":1.78},
-                    {"src":"/img/Short Film/Man in Blue/MinB_08.jpg","text":"","ratio":1.78},
-                    {"src":"/img/Short Film/Man in Blue/MinB_09.jpg","text":"","ratio":1.78}
+                    {"src":"/img/Work/Man in Blue/MinB_01.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Work/Man in Blue/MinB_02.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Work/Man in Blue/MinB_03.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Work/Man in Blue/MinB_04.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Work/Man in Blue/MinB_05.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Work/Man in Blue/MinB_06.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Work/Man in Blue/MinB_07.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Work/Man in Blue/MinB_08.jpg","text":"","ratio":1.78},
+                    {"src":"/img/Work/Man in Blue/MinB_09.jpg","text":"","ratio":1.78}
                 ],
                 "lines":[
                     [1,2,3],
@@ -329,8 +577,9 @@
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Acme",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
                     {"src":"/img/Concept Design/All That Jazz/Zhang_Zero_Set2_01.jpg","text":"","ratio":1.545},
@@ -364,8 +613,9 @@
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Acme",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
                     {"src":"/img/Concept Design/Broken Down/Zhang_Zero_ADTL_01.jpg","text":"","ratio":1.545},
@@ -405,8 +655,9 @@
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Acme",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
                     {"src":"/img/Illustration/ZZhang_PI_01_200619.png","text":"","ratio":1.81},
@@ -423,9 +674,46 @@
                     {"src":"/img/Illustration/04.JPG","text":"","ratio":1.27},
                     {"src":"/img/Illustration/05.JPG","text":"","ratio":1.72},
                     {"src":"/img/Illustration/07.png","text":"","ratio":1.57,"large":"true"},
-                    {"src":"/img/Illustration/06.png","text":"","ratio":1.01}
+                    {"src":"/img/Illustration/06.png","text":"","ratio":1.01},
+                    {"src":"/img/Illustration/JPstudy_01.png","text":"","ratio":2.08},
+                    {"src":"/img/Illustration/JPstudy_02.png","text":"","ratio":2},
+                    {"src":"/img/Illustration/hp_01.png","text":"","ratio":1.77},
+                    {"src":"/img/Illustration/hp_02.png","text":"","ratio":1.77},
+                    {"src":"/img/Illustration/hp_03.png","text":"","ratio":1.77},
+                    {"src":"/img/Illustration/storyboard_01.png","text":"","ratio":1.36},
+                    {"src":"/img/Illustration/storyboard_02.png","text":"","ratio":1.14},
+                    {"src":"/img/PORTFOLIO/CHATEAU EST_newnewnew_0518.png","text":"","ratio":2},
+                    {"src":"/img/PORTFOLIO/P4.png","text":"","ratio":2},
+                    {"src":"/img/PORTFOLIO/DMD RM_210612.png","text":"","ratio":2.000000},
+                    {"src":"/img/PORTFOLIO/P5.png","text":"","ratio":2},
+                    {"src":"/img/PORTFOLIO/DMD HALL_new_ZERO_ZHANG.jpg","text":"","ratio":2.000000},
+                    {"src":"/img/PORTFOLIO/P6.png","text":"","ratio":2},
+                    {"src":"/img/PORTFOLIO/DMD RM_210612.png","text":"","ratio":2.000000},
+                    {"src":"/img/PORTFOLIO/P7.png","text":"","ratio":2},
+                    {"src":"/img/PORTFOLIO/disney_pf.png","text":"","ratio":1.849023},
+                    {"src":"/img/PORTFOLIO/P1.png","text":"","ratio":1.850000},
+                    {"src":"/img/PORTFOLIO/disney_pf2.png","text":"","ratio":1.850667},
+                    {"src":"/img/PORTFOLIO/P2.png","text":"","ratio":1.850000},
+                    {"src":"/img/PORTFOLIO/disney_pf3.png","text":"","ratio":1.850667},
+                    {"src":"/img/PORTFOLIO/P3.png","text":"","ratio":1.850000},
+                    {"src":"/img/PORTFOLIO/Urban Renewal_0.png","text":"","ratio":1.850000},
+                    {"src":"/img/PORTFOLIO/Off Work_PS_000.png","text":"","ratio":1.850000},
+                    {"src":"/img/PORTFOLIO/disney_pf12.png","text":"","ratio":1.850133}
                 ],
                 "lines":[
+                    [16,17],
+                    [23,24],
+                    [25,26],
+                    [27,28],
+                    [29,30],
+                    [31,32],
+                    [33,34],
+                    [35,36],
+                    [37,38,39],
+                    [18,19,20],
+                    [21,22],
+                    [1,2],
+                    [3,4],
                     [1,2,3],
                     [4],
                     [5,6,7],
@@ -442,18 +730,47 @@
         "content":[
             {
                 "id":1,
-                "name":"Drafting",
+                "name":"Set Design",
                 "src":"/img/Drafting/drafting_01.png",
-                "title":"Drafting",
-                "text":"Drafting",
+                "title":"Set Design",
+                "text":"Set Design",
                 "column":0,
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Acme",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
+                    {"src":"/img/Drafting/gothic_01.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/gothic_02.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/gothic_03.png","text":"","ratio":0.66},
+                    {"src":"/img/Drafting/gothic_04.png","text":"","ratio":0.66},
+                    {"src":"/img/Drafting/gothic_05.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/mlj_dpl_01.png","text":"","ratio":1.54},
+                    {"src":"/img/Drafting/sd_01.png","text":"","ratio":1.55},
+                    {"src":"/img/Drafting/sd_02.png","text":"","ratio":1.55},
+                    {"src":"/img/Drafting/sd_03.png","text":"","ratio":1.55},
+                    {"src":"/img/Drafting/mtcl_01.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/mtcl_02.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/eb_01.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/eb_02.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/eb_04.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/eb_03.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/eb_05.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/dtl_01.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/dtl_02.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/dtl_04.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/dtl_05.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/dtl_03.png","text":"","ratio":0.67},
+                    {"src":"/img/Drafting/ss_01.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/ss_02.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/ss_03.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/ss_04.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/ss_05.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/sm_01.png","text":"","ratio":1.5},
+                    {"src":"/img/Drafting/sm_02.png","text":"","ratio":1.5},
                     {"src":"/img/Drafting/drafting_01.png","text":"","ratio":1.49},
                     {"src":"/img/Drafting/drafting_02.png","text":"","ratio":1.50},
                     {"src":"/img/Drafting/drafting_03.png","text":"","ratio":1.50},
@@ -463,15 +780,34 @@
                     {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_06.png","text":"","ratio":1.50}
                 ],
                 "lines":[
-                    [1,2,3],
-                    [4,5,6],
-                    [7]
+                    [1,2],
+                    [3,4,5],
+                    [6,7],
+                    [8,9],
+                    [10,11],
+                    [29,30,31],
+                    [12,13],
+                    [14,15,16],
+                    [17,18],
+                    [19,20],
+                    [21,22],
+                    [23,24],
+                    [25,26],
+                    [27,28],
+                    [32,33,34],
+                    [35]
                 ]
             }
         ]
     },
     "architectures":{
-        
+        "group_font":"Montserrat",
+        "content_group":[
+            ""
+        ],
+        "groups":[
+            [1,2,3,4,5,6]
+        ],
         "content":[
             {
                 "id":1,
@@ -483,8 +819,9 @@
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Acme",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
                     {"src":"/img/Stage+Arch/Figaro/fig_01.png","text":"","ratio":1.50},
@@ -512,8 +849,9 @@
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Acme",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
                     {"src":"/img/Stage+Arch/Orphan of Zhao/ofz_01","text":"","ratio":1.50},
@@ -546,8 +884,9 @@
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Acme",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
                     {"src":"/img/Stage+Arch/Lotus/lot_01.png","text":"","ratio":1.414},
@@ -572,8 +911,9 @@
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Acme",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
                     {"src":"/img/Stage+Arch/Emotion Transformer/et_01.png","text":"","ratio":1.5},
@@ -605,8 +945,9 @@
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Acme",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
                     {"src":"/img/Stage+Arch/Urb/urb_01.png","text":"","ratio":1.46},
@@ -634,8 +975,9 @@
                 "font":{
                     "name":"Hammersmith One",
                     "text":"Quicksand",
-                    "title":"Acme",
-                    "pic_text":"Hammersmith One"
+                    "title":"Montserrat",
+                    "pic_text":"Hammersmith One",
+                    "color":"black"
                 },
                 "pics":[
                     {"src":"/img/Stage+Arch/Wood Hall/Wood_01.jpg","text":"","ratio":1.5},
