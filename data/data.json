@@ -3,6 +3,7 @@
         "logo":"/img/logo.png",
         "name":"ZIRAO ZHANG",
         "title":"Production Design | Set Design | Illustration",
+        "contact":"626-861-7642 | zhangzirao0219@gmail.com",
         "font":{
             "title":"Hammersmith One",
             "name":"Hammersmith One"
@@ -13,7 +14,7 @@
         "content":[
             {
                 "path":"/home/",
-                "name":"PORTFOLIO"
+                "name":"HOME"
             },
             {
                 "path":"/works/",
@@ -417,7 +418,7 @@
             {
                 "id":15,
                 "name":"Cake",
-                "src":"/img/Work/Cake/Cake_01.png",
+                "src":"/img/Work/Cake/cake_01.png",
                 "title":"Cake",
                 "text":"Production Designer",
                 "column":3,
@@ -429,11 +430,11 @@
                     "color":"black"
                 },
                 "pics":[
-                    {"src":"/img/Work/Cake/Cake_01.png","text":"","ratio":2.38},
-                    {"src":"/img/Work/Cake/Cake_02.png","text":"","ratio":2.38},
-                    {"src":"/img/Work/Cake/Cake_03.png","text":"","ratio":2.38},
-                    {"src":"/img/Work/Cake/Cake_04.png","text":"","ratio":2.38},
-                    {"src":"/img/Work/Cake/Cake_05.png","text":"","ratio":2.38}
+                    {"src":"/img/Work/Cake/cake_01.png","text":"","ratio":2.38},
+                    {"src":"/img/Work/Cake/cake_02.png","text":"","ratio":2.38},
+                    {"src":"/img/Work/Cake/cake_03.png","text":"","ratio":2.38},
+                    {"src":"/img/Work/Cake/cake_04.png","text":"","ratio":2.38},
+                    {"src":"/img/Work/Cake/cake_05.png","text":"","ratio":2.38}
                 ],
                 "lines":[
                     [1,2,3],
@@ -675,8 +676,8 @@
                     {"src":"/img/Illustration/05.JPG","text":"","ratio":1.72},
                     {"src":"/img/Illustration/07.png","text":"","ratio":1.57,"large":"true"},
                     {"src":"/img/Illustration/06.png","text":"","ratio":1.01},
-                    {"src":"/img/Illustration/JPstudy_01.png","text":"","ratio":2.08},
-                    {"src":"/img/Illustration/JPstudy_02.png","text":"","ratio":2},
+                    {"src":"/img/Illustration/JPstudy_01.PNG","text":"","ratio":2.08},
+                    {"src":"/img/Illustration/JPstudy_02.PNG","text":"","ratio":2},
                     {"src":"/img/Illustration/hp_01.png","text":"","ratio":1.77},
                     {"src":"/img/Illustration/hp_02.png","text":"","ratio":1.77},
                     {"src":"/img/Illustration/hp_03.png","text":"","ratio":1.77},
@@ -684,7 +685,7 @@
                     {"src":"/img/Illustration/storyboard_02.png","text":"","ratio":1.14},
                     {"src":"/img/PORTFOLIO/CHATEAU EST_newnewnew_0518.png","text":"","ratio":2},
                     {"src":"/img/PORTFOLIO/P4.png","text":"","ratio":2},
-                    {"src":"/img/PORTFOLIO/DMD RM_210612.png","text":"","ratio":2.000000},
+                    {"src":"/img/PORTFOLIO/CHATEAU CLOSE_final_210612.png","text":"","ratio":2.000000},
                     {"src":"/img/PORTFOLIO/P5.png","text":"","ratio":2},
                     {"src":"/img/PORTFOLIO/DMD HALL_new_ZERO_ZHANG.jpg","text":"","ratio":2.000000},
                     {"src":"/img/PORTFOLIO/P6.png","text":"","ratio":2},
@@ -714,8 +715,6 @@
                     [21,22],
                     [1,2],
                     [3,4],
-                    [1,2,3],
-                    [4],
                     [5,6,7],
                     [8],
                     [9,10],
