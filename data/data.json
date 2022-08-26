@@ -40,10 +40,10 @@
     },
     "resume":{
         "selfy":"/img/selfyy.JPG",
-        "intro":"After studying in China, Europe and US and getting her bachelor’s degree in architecture, Zero (Zirao) worked briefly for CallisonRTKL, an architecture design firm. With the ideal of combining cinema art and architecture design, She moved to LA to attend the AFI production design program, honing her skills in story-driven environment design. As she started working for film/tv production design, she quickly realized her strengths and interest fall on concept illustration and set design. So far, she’s worked on HARRY POTTER: HOGWARTS TOURNAMENT OF HOUSES (TBS, concept illustrator), THE ACTIVIST (CBS, assistant art director), BEEF (A24/Netflix, concept illustrator), MODERN LOVE JAPAN (Amazon) and BOO, BITCH (Netflix).",
+        "intro":"After studying in China, Europe and US and getting her bachelor’s degree in architecture, Zero (Zirao) worked briefly for CallisonRTKL, an architecture design firm. With the ideal of combining cinema art and architecture design, She moved to LA to attend the AFI production design program, honing her skills in story-driven environment design. As she started working for film/tv production design, she quickly realized her strengths and interest fall on concept illustration and set design. So far, she’s worked on MAGAZINE DREAMS (LAMF, illustrator), HARRY POTTER: HOGWARTS TOURNAMENT OF HOUSES (TBS, concept illustrator), THE ACTIVIST (CBS, assistant art director), BEEF (A24/Netflix, concept illustrator), MODERN LOVE JAPAN (Amazon) and BOO, BITCH (Netflix).",
         "phone":"626-861-7642",
         "email":"zzhang4@afi.edu",
-	    "resume":"/img/resume_Zero_220317.png",
+	    "resume":"/img/resume_Zero_082522.png",
         "font":{
             "intro":"Hammersmith One",
             "contact":"Hammersmith One"
@@ -55,6 +55,36 @@
             "text":"Hammersmith One"
         },
         "pics":[
+            {
+                "src":"/img/PORTFOLIO/DataCenter_01_080922 copy.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/DataCenter_03_081022 copy.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/medieval street copy.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/Zero Zhang_thumbnails_scifi data center.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/PaintStore_ZZ_072922 copy.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/Spaceship_072422_composite_VER02 copy.png",
+                "title":"",
+                "text":"inspired by Stefeliga Flavius"
+            },
             {
                 "src":"/img/PORTFOLIO/CHATEAU EST_newnewnew_0518.png",
                 "title":"",
@@ -71,19 +101,9 @@
                 "text":""
             },
             {
-                "src":"/img/PORTFOLIO/P5.png",
-                "title":"",
-                "text":""
-            },
-            {
 		        "src":"/img/PORTFOLIO/DMD HALL_new_ZERO_ZHANG.jpg",
 		        "title":"",
 		        "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/P6.png",
-                "title":"",
-                "text":""
             },
             {
 		        "src":"/img/PORTFOLIO/DMD RM_210612.png",
@@ -91,7 +111,17 @@
 		        "text":""
             },
             {
-                "src":"/img/PORTFOLIO/P7.png",
+                "src":"/img/PORTFOLIO/disney_pf.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/disney_pf2.png",
+                "title":"",
+                "text":""
+            },
+            {
+                "src":"/img/PORTFOLIO/disney_pf3.png",
                 "title":"",
                 "text":""
             },
@@ -107,36 +137,6 @@
             },
             {
                 "src":"/img/PORTFOLIO/disney_pf12.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/disney_pf.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/P1.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/disney_pf2.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/P2.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/disney_pf3.png",
-                "title":"",
-                "text":""
-            },
-            {
-                "src":"/img/PORTFOLIO/P3.png",
                 "title":"",
                 "text":""
             },
@@ -699,10 +699,23 @@
                     {"src":"/img/PORTFOLIO/P3.png","text":"","ratio":1.850000},
                     {"src":"/img/PORTFOLIO/Urban Renewal_0.png","text":"","ratio":1.850000},
                     {"src":"/img/PORTFOLIO/Off Work_PS_000.png","text":"","ratio":1.850000},
-                    {"src":"/img/PORTFOLIO/disney_pf12.png","text":"","ratio":1.850133}
+                    {"src":"/img/PORTFOLIO/disney_pf12.png","text":"","ratio":1.850133},
+                    {"src":"/img/PORTFOLIO/DataCenter_01_080922 copy.png","text":"","ratio":2},
+                    {"src":"/img/PORTFOLIO/DataCenter_02_081022 copy.png","text":"","ratio":2},
+                    {"src":"/img/PORTFOLIO/DataCenter_03_081022 copy.png","text":"","ratio":2},
+                    {"src":"/img/PORTFOLIO/Zero Zhang_thumbnails_scifi data center.png","text":"","ratio":1.85},
+                    {"src":"/img/PORTFOLIO/medieval street copy.png","text":"","ratio":2},
+                    {"src":"/img/PORTFOLIO/PaintStore_ZZ_072922 copy.png","text":"","ratio":1.865},
+                    {"src":"/img/PORTFOLIO/Spaceship_072422_composite_VER02 copy.png","text":"","ratio":2.39},
+                    {"src":"/img/PORTFOLIO/starwarfanart_0812 copy.png","text":"","ratio":2.39},
+                    {"src":"/img/PORTFOLIO/Class_04 copy.png","text":"","ratio":1.7}
                 ],
                 "lines":[
-                    [16,17],
+                    [40,41],
+                    [42,43],
+                    [44,45],
+                    [46,47],
+                    [16,17,48],
                     [23,24],
                     [25,26],
                     [27,28],
