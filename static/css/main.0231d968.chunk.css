@@ -1,2 +1,9 @@
 .header{text-align:center}
+html,body{background-color:#000!important;color:#d3d3d3!important}
+body *{color:#d3d3d3!important}
+div,section,article,main,header,footer,nav,aside{background-color:transparent!important}
+input,textarea,select,button{background-color:#1a1a1a!important;color:#d3d3d3!important;border-color:#444!important}
+a{color:#d3d3d3!important}
+a:hover{color:#fff!important}
+h1,h2,h3,h4,h5,h6,p,span,li,td,th,label,strong,b,em,i{color:#d3d3d3!important}
 /*# sourceMappingURL=main.0231d968.chunk.css.map */
