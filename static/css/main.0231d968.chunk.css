@@ -6,4 +6,5 @@ input,textarea,select,button{background-color:#1a1a1a!important;color:#d3d3d3!im
 a{color:#d3d3d3!important}
 a:hover{color:#fff!important}
 h1,h2,h3,h4,h5,h6,p,span,li,td,th,label,strong,b,em,i{color:#d3d3d3!important}
+img[src*="resume"],img[src*="Resume"]{transform:scale(1)!important;transform-origin:top left!important;display:block!important}
 /*# sourceMappingURL=main.0231d968.chunk.css.map */
