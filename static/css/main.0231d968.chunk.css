@@ -1,7 +1,10 @@
 .header{text-align:center}
 html,body{background-color:#000!important;color:#d3d3d3!important}
 body *{color:#d3d3d3!important}
-div,section,article,main,header,footer,nav,aside{background-color:transparent!important}
+div,section,article,main,header,footer,nav,aside{background-color:#000!important;border-color:#000!important}
+.container,.container-fluid,[class*="container"]{background-color:#000!important;border-color:#000!important}
+.card,.card-body,.card-header,.card-footer{background-color:#000!important;border-color:#000!important;border:1px solid #000!important}
+.card.border-light,.card.border-dark,.card.border-primary,.card.border-secondary,.card.border-success,.card.border-danger,.card.border-warning,.card.border-info{border-color:#000!important;border:1px solid #000!important}
 input,textarea,select,button{background-color:#1a1a1a!important;color:#d3d3d3!important;border-color:#444!important}
 a{color:#d3d3d3!important}
 a:hover{color:#fff!important}
